@@ -48,9 +48,6 @@
     </style>
 </head>
 <body>
-	
-
-<link rel = "stylesheet" type = "text/css" href = "style.css">
 
 
 	<div class="one" style=" background-color: #b3ecff;
