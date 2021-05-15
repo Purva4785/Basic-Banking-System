@@ -70,8 +70,8 @@
       <span style="color: black; padding: 25px;">
 
           <br>        
-         <a style="margin-left: 12px;color:black;"href="https://github.com/SmrutiITB" onmouseover="this.style.color='black'" onmouseout="this.style.color='black'" ><i class="fab fa-github fa-2x"></i></a>
-         <a style="margin-left:12px;color:black;"href="https://www.linkedin.com/in/smruti-singh-908884191/" onmouseover="this.style.color='#black'" onmouseout="this.style.color='black'"><i class="fab fa-linkedin fa-2x"></i></a>
+         <a style="margin-left: 12px;color:black;"href="https://github.com/Purva4785" onmouseover="this.style.color='black'" onmouseout="this.style.color='black'" ><i class="fab fa-github fa-2x"></i></a>
+         <a style="margin-left:12px;color:black;"href="www.linkedin.com/in/purva-virkar-2a4921204" onmouseover="this.style.color='#black'" onmouseout="this.style.color='black'"><i class="fab fa-linkedin fa-2x"></i></a>
          </span> 
          </div>
 	</div>
